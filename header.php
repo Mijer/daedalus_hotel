@@ -21,16 +21,16 @@
 		<div id="container">
 			<header>
 				<div id="logo">
-					<a href="http://localhost/deadalus_hotel/index.php"><img src="img/logo.png" alt=""></a>
+					<a href="http://localhost/daedalus_hotel/index.php"><img src="img/icone.gif" alt="" class="iconeacc"></a>
 					<h1>Deadalus Hotel</h1>
 				</div>
 				<nav>
 					<ul>
-						<li><a href="http://localhost/deadalus_hotel/index.php">Accueil</a></li>
-						<li><a href="http://localhost/deadalus_hotel/chambres.php">Chambres & Services</a></li>
-						<li><a href="http://localhost/deadalus_hotel/situer.php">Nous situer</a></li>
-						<li><a href="http://localhost/deadalus_hotel/decouvrir.php">Découvrir Lyon</a></li>
-						<li><a href="http://localhost/deadalus_hotel/contact.php">Nous contacter</a></li>
+						<li><a href="http://localhost/daedalus_hotel/index.php">Accueil</a></li>
+						<li><a href="http://localhost/daedalus_hotel/chambres.php">Chambres & Services</a></li>
+						<li><a href="http://localhost/daedalus_hotel/situer.php">Nous situer</a></li>
+						<li><a href="http://localhost/daedalus_hotel/decouvrir.php">Découvrir Lyon</a></li>
+						<li><a href="http://localhost/daedalus_hotel/contact.php">Nous contacter</a></li>
 					</ul>
 					</nav>
 			</header>
