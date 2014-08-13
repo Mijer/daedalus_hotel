@@ -25,6 +25,10 @@ line-height: 1;
 -webkit-font-smoothing: antialiased;
 }
 
+.fa:hover{
+text-shadow: 4px 4px 1px rgba(0,0,0,.5);
+}
+
 ::selection {
     background : #4b4b4d;
     color : #fff;
@@ -326,8 +330,15 @@ form{
   color: #4b4b4d;
 }
 
-.contact input[type="submit"]:active{
+.contact input[type="submit"]:hover{
   background: #4b4b4d;
+  color: #fff;
+  transition: 0.35s all;
+}
+
+.contact input[type="submit"]:active{
+  background: #fff;
+  color: #4b4b4d;
 }
 
 .ztexte{
